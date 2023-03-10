@@ -1,11 +1,7 @@
 
 # My_Vardump
 
-Creating a feature with the same behaviour as "var_dump
-
-
-## TRELLO
-![Logo](https://zupimages.net/up/23/01/zjku.png)
+Creating a feature with the same behaviour as "var_dump"
 
 
 ## Description du Sujet
